@@ -12,11 +12,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
-</p>
-
-## :rocket: Tecnologias
+## :Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -24,3 +20,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [React Query](https://react-query.tanstack.com/)
+- [Vite](https://vitejs.dev/)
